@@ -1,0 +1,7 @@
+streamlit
+pandas
+openpyxl
+sqlalchemy
+faker
+fpdf2
+streamlit-cookies-controller
